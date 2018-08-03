@@ -1,0 +1,484 @@
+Rank;Country;Population;Date;% of world;Source
+Rank;Country;Population;Date;% of world;Source
+Rank;Country;Population;Date;% of world;Source
+1; China[Note 2]; 1,393,290,000; August 3, 2018; 18.2%;Official population clock
+2; India[Note 3]; 1,335,160,000; August 3, 2018; 17.5%;Official population clock
+3; United States[Note 4]; 327,590,000; August 3, 2018; 4.29%;Official population clock
+4; Indonesia; 265,015,300; July 1, 2018; 3.47%;Official annual projection
+5; Pakistan; 212,456,000; August 3, 2018; 2.78%;Official population clock
+6; Brazil; 209,398,000; August 3, 2018; 2.74%;Official population clock
+7; Nigeria; 193,392,517; July 1, 2016; 2.53%;Annual official estimate
+8; Bangladesh; 164,951,000; August 3, 2018; 2.16%;Official population clock
+9; Russia[Note 5]; 146,877,088; January 1, 2018; 1.92%;Official estimate
+10; Japan; 126,490,000; May 1, 2018; 1.66%;Monthly provisional estimate
+11; Mexico; 124,737,789; July 1, 2018; 1.63%;Official annual projection
+12; Ethiopia; 107,534,882; July 1, 2018; 1.41%;UN Projection
+13; Philippines; 106,259,000; August 3, 2018; 1.39%;Official population clock
+14; Egypt; 97,324,100; August 3, 2018; 1.27%;Official population clock
+15; Vietnam; 94,660,000; July 1, 2018; 1.24%;Official annual estimate
+16; DR Congo; 84,004,989; July 1, 2018; 1.1%;UN Projection
+17; Germany; 82,740,900; September 30, 2017; 1.08%;Official annual data
+18; Iran; 81,672,300; August 3, 2018; 1.07%;Official population clock
+19; Turkey; 80,810,525; December 31, 2017; 1.06%;Official annual estimate
+20; Thailand; 69,183,173; July 1, 2018; 0.91%;UN estimate
+21; France[Note 6]; 67,272,000; July 1, 2018; 0.88%;Monthly official estimate
+22; United Kingdom[Note 7]; 66,040,229; June 30, 2017; 0.86%;Official annual estimate
+23; Italy; 60,436,469; March 31, 2018; 0.79%;Monthly official estimate
+24; South Africa; 57,725,600; July 1, 2018; 0.76%;Annual official estimate
+25; Tanzania[Note 8]; 54,199,163; July 1, 2018; 0.71%;Official annual projection
+26; Myanmar; 53,862,731; July 1, 2018; 0.7%;Official annual projection
+27; South Korea; 51,635,256; July 1, 2018; 0.68%;Annual official estimate
+28; Kenya; 50,950,879; July 1, 2018; 0.67%;UN projection
+29; Colombia; 49,882,900; August 3, 2018; 0.653%;Official population clock
+30; Spain; 46,659,302; January 1, 2018; 0.61%;Official estimate
+31; Argentina; 44,494,502; July 1, 2018; 0.58%;Official annual projection
+32; Algeria; 42,545,964; July 1, 2018; 0.56%;Official annual projection
+33; Ukraine[Note 9]; 42,279,611; June 1, 2018; 0.55%;Monthly official estimate
+34; Sudan; 41,984,512; July 1, 2018; 0.55%;Official annual projection
+35; Iraq; 39,339,753; July 1, 2018; 0.51%;UN projection
+36; Uganda; 38,823,100; July 1, 2018; 0.49%;Official annual projection
+37; Poland; 38,422,346; June 30, 2017; 0.5%;Official estimate
+38; Canada; 37,183,300; August 3, 2018; 0.487%;Official estimate
+39; Morocco[Note 10]; 34,744,700; August 3, 2018; 0.455%;Official annual projection
+40; Saudi Arabia; 33,413,660; January 1, 2018; 0.44%;Official estimate
+41; Uzbekistan; 32,653,900; January 1, 2018; 0.43%;Annual official estimate
+42; Malaysia; 32,617,000; August 3, 2018; 0.427%;Official population clock
+43; Venezuela; 31,828,110; July 1, 2018; 0.42%;Official annual projection
+44; Afghanistan; 31,575,018; July 1, 2018; 0.41%;Annual official estimate
+45; Peru; 31,237,385; October 22, 2017; 0.41%;Official census result
+46; Ghana; 29,614,337; January 1, 2018; 0.39%;Official projection
+47; Angola; 29,250,009; January 1, 2018; 0.38%;Official projection
+48; Nepal; 29,218,867; July 1, 2018; 0.38%;Official annual projection
+49; Yemen; 28,915,284; July 1, 2018; 0.38%;UN projection
+50; Mozambique; 28,861,863; August 1, 2017; 0.38%;Official census result
+51; Madagascar; 26,262,810; July 1, 2018; 0.34%;UN projection
+52; North Korea; 25,610,672; July 1, 2018; 0.34%;UN projection
+53; Australia; 25,017,500; August 3, 2018; 0.327%;Official population clock
+54; Ivory Coast; 24,571,044; July 1, 2017; 0.32%;Official estimate
+55; Cameroon; 23,794,164; January 1, 2018; 0.31%;Annual official projection
+–; Taiwan[Note 11]; 23,574,274; June 1, 2018; 0.31%;Monthly official estimate
+56; Niger; 21,466,863; July 1, 2018; 0.28%;Annual official projection
+57; Sri Lanka; 21,444,000; July 1, 2017; 0.28%;Official estimate
+58; Burkina Faso; 20,244,080; July 1, 2018; 0.26%;Annual official projection
+59; Romania; 19,638,000; January 1, 2017; 0.26%;Annual official estimate
+60; Mali; 19,107,706; July 1, 2018; 0.25%;UN projection
+61; Syria; 18,284,407; July 1, 2018; 0.24%;UN projection
+62; Kazakhstan; 18,253,300; June 1, 2018; 0.24%;Official estimate
+63; Malawi; 17,931,637; July 1, 2018; 0.23%;Annual official projection
+64; Chile; 17,574,003; April 19, 2017; 0.23%;Final or definitive 2017 census result
+65; Guatemala; 17,302,084; July 1, 2018; 0.23%;Annual official projection
+66; Netherlands; 17,242,900; August 3, 2018; 0.226%;Official population clock
+67; Ecuador; 17,045,700; August 3, 2018; 0.223%;Official population clock
+68; Zambia; 16,887,720; July 1, 2018; 0.22%;Official annual projection
+69; Cambodia; 16,069,921; July 1, 2018; 0.21%;Official annual projection
+70; Senegal; 15,726,037; July 1, 2018; 0.21%;Official annual projection
+71; Chad; 15,353,184; July 1, 2018; 0.2%;UN projection
+72; Somalia[Note 12]; 15,181,925; July 1, 2018; 0.2%;UN projection
+73; Zimbabwe; 14,848,905; July 1, 2018; 0.19%;Official annual projection
+74; South Sudan; 12,323,419; July 1, 2018; 0.16%;Official annual projection
+75; Rwanda; 12,001,136; July 1, 2018; 0.16%;Official projection annual
+76; Guinea; 11,883,516; July 1, 2018; 0.16%;Official projection
+77; Tunisia; 11,446,300; July 1, 2017; 0.15%;Official estimate
+78; Belgium; 11,414,214; June 1, 2018; 0.15%;Monthly official estimate
+79; Benin; 11,362,269; July 1, 2018; 0.15%;Official projection
+80; Bolivia; 11,307,314; July 1, 2018; 0.15%;Official projection annual
+81; Cuba; 11,221,060; December 31, 2017; 0.15%;Annual official estimate
+82; Haiti; 11,112,945; July 1, 2018; 0.15%;UN projection
+83; Greece; 10,768,193; January 1, 2017; 0.14%;Official estimate
+84; Burundi; 10,681,186; July 1, 2018; 0.14%;Official annual projection
+85; Czech Republic; 10,613,350; March 31, 2018; 0.14%;Official quarterly estimate
+86; Portugal; 10,291,027; December 31, 2017; 0.13%;Annual official estimate
+87; Dominican Republic; 10,266,149; July 1, 2018; 0.13%;Official projection
+88; Jordan; 10,208,900; August 3, 2018; 0.134%;Official population clock
+89; Sweden; 10,161,797; May 31, 2018; 0.13%;Official monthly estimate
+90; Azerbaijan; 9,898,085; January 1, 2018; 0.13%;Official estimate
+91; Hungary; 9,771,000; January 1, 2018; 0.13%;Annual official estimate
+92; United Arab Emirates; 9,541,615; July 1, 2018; 0.12%;UN projection
+93; Belarus; 9,478,200; July 1, 2018; 0.12%;Official quarterly estimate/
+94; Honduras; 9,012,229; July 1, 2018; 0.12%;Official annual projection
+95; Tajikistan; 8,931,000; January 1, 2018; 0.12%;Official estimate
+96; Israel; 8,893,350; August 3, 2018; 0.116%;Official population clock
+97; Austria; 8,830,487; April 1, 2018; 0.12%;Quarterly provisional figure
+98; Papua New Guinea; 8,558,800; July 1, 2018; 0.11%;Annual official estimate
+99; Switzerland; 8,492,956; March 31, 2018; 0.11%;Official provisional figure
+100; Sierra Leone; 7,719,729; July 1, 2018; 0.101%;UN projection
+–; Hong Kong (China); 7,409,800; January 1, 2018; 0.097%;Official estimate
+101; Togo; 7,352,000; July 1, 2018; 0.096%;Official annual projection
+102; Paraguay; 7,052,983; January 1, 2018; 0.092%;Official estimate
+103; Bulgaria; 7,050,034; December 31, 2017; 0.092%;Official estimate
+104; Serbia[Note 13]; 7,001,444; January 1, 2018; 0.092%;Annual official estimate
+105; Laos; 6,961,210; July 1, 2018; 0.091%;UN projection
+106; El Salvador; 6,643,359; July 1, 2018; 0.087%;Official annual projection
+107; Libya; 6,470,956; July 1, 2018; 0.083%;UN projection
+108; Nicaragua; 6,305,956; July 1, 2017; 0.083%;Official estimate
+109; Kyrgyzstan; 6,256,700; January 1, 2018; 0.082%;Official annual estimate
+110; Lebanon; 6,093,509; July 1, 2018; 0.08%;UN projection
+111; Turkmenistan; 5,851,466; July 1, 2018; 0.077%;UN projection
+112; Denmark; 5,785,864; April 1, 2018; 0.076%;Official quarterly estimate
+113; Singapore; 5,612,253; June 30, 2017; 0.073%;Official annual estimate
+114; Finland; 5,516,343; June 30, 2018; 0.072%;Official monthly estimate
+115; Slovakia; 5,443,120; January 1, 2018; 0.071%;Official estimate
+116; Republic of the Congo; 5,399,895; July 1, 2018; 0.071%;UN projection
+117; Norway; 5,302,778; April 1, 2018; 0.069%;Official quarterly estimate
+118; Eritrea; 5,187,948; July 1, 2018; 0.068%;UN projection
+119; Costa Rica; 5,003,393; June 30, 2018; 0.065%;Official annual projection
+120; New Zealand; 4,893,480; August 3, 2018; 0.064%;Official population clock
+121; Ireland; 4,792,500; April 1, 2017; 0.063%;Official estimate 2017 census result
+122; Palestine; 4,780,978; December 1, 2017; 0.063%;Official census result
+123; Central African Republic; 4,737,423; July 1, 2018; 0.062%;UN projection
+124; Oman; 4,590,404; July 1, 2018; 0.06%;Annual official projection
+125; Liberia; 4,382,387; July 1, 2018; 0.057%;Official projection[Note 14]
+126; Kuwait; 4,226,920; January 1, 2018; 0.055%;Official annual estimate
+127; Panama; 4,158,783; July 1, 2018; 0.054%;Annual official projection
+128; Croatia; 4,105,493; December 31, 2017; 0.054%;Official annual estimate
+129; Mauritania; 3,895,747; July 1, 2018; 0.051%;Annual official projection
+130; Georgia[Note 15]; 3,729,600; January 1, 2018; 0.049%;Annual official estimate
+131; Moldova[Note 16]; 3,550,900; January 1, 2017; 0.046%;Official estimate
+132; Bosnia and Herzegovina; 3,511,372; July 1, 2016; 0.046%;Official estimate
+133; Uruguay; 3,505,985; June 30, 2018; 0.046%;Official annual projection
+–; Puerto Rico (U.S.); 3,337,177; July 1, 2017; 0.044%;Official estimate
+134; Mongolia; 3,225,225; August 3, 2018; 0.042%;Official population clock
+135; Armenia; 2,972,900; December 31, 2017; 0.039%;Official quarterly estimate
+136; Albania; 2,870,324; January 1, 2018; 0.038%;Annual official estimate
+137; Lithuania; 2,800,738; July 1, 2018; 0.037%;Monthly official estimate
+138; Jamaica; 2,728,864; December 31, 2017; 0.036%;Official estimate
+139; Qatar; 2,685,053; March 1, 2018; 0.035%;Monthly official estimate
+140; Namibia; 2,413,643; July 1, 2018; 0.032%;Official projection
+141; Botswana; 2,304,238; July 1, 2018; 0.03%;Official annual projection
+142; Lesotho; 2,263,010; July 1, 2018; 0.03%;UN projection
+143; The Gambia; 2,163,765; July 1, 2018; 0.028%;UN projection
+144; Macedonia; 2,075,301; December 31, 2017; 0.027%;Official estimate
+145; Gabon; 2,067,561; July 1, 2018; 0.027%;UN projection
+146; Slovenia; 2,066,880; January 1, 2018; 0.027%;Official estimate
+147; Latvia; 1,925,700; July 1, 2018; 0.025%;Monthly official estimate
+–; Kosovo[Note 17]; 1,798,506; December 31, 2017; 0.024%;Official annual estimate
+148; Guinea-Bissau; 1,584,763; July 1, 2018; 0.021%;Official annual projection
+149; Bahrain; 1,451,200; July 1, 2017; 0.019%;Official annual projection
+150; Trinidad and Tobago; 1,356,633; July 1, 2017; 0.018%;Official estimate
+151; Estonia; 1,319,133; January 1, 2018; 0.017%;Official estimate
+152; Mauritius; 1,264,887; July 1, 2017; 0.017%;Official estimate
+153; Equatorial Guinea; 1,222,442; July 4, 2015; 0.016%;Preliminary 2015 census result
+154; East Timor; 1,167,242; July 11, 2015; 0.015%;Preliminary 2015 census result
+155; Swaziland; 1,159,250; July 1, 2018; 0.015%;Official projection
+156; Djibouti; 1,049,001; July 1, 2018; 0.014%;Official annual projection
+157; Fiji; 884,887; September 17, 2017; 0.012%;Official census result
+158; Cyprus; 854,800; December 31, 2016; 0.011%;Official estimate
+159; Comoros; 806,153; July 1, 2016; 0.011%;Official estimate
+160; Guyana; 782,225; July 1, 2018; 0.0102%;UN projection
+161; Bhutan; 727,145; 30 May, 2017; 0.01%;Official census result
+162; Solomon Islands; 667,044; July 1, 2018; 0.0087%;Official annual projection
+–; Macau (China); 656,700; March 31, 2018; 0.0086%;Official quarterly estimate
+163; Montenegro; 622,359; January 1, 2018; 0.0081%;Official estimate
+164; Luxembourg; 602,005; January 1, 2018; 0.0079%;Official estimate
+165; Suriname; 568,301; July 1, 2018; 0.0074%;UN projection
+–; Western Sahara[Note 18]; 567,421; July 1, 2018; 0.0074%;UN projection
+166; Cape Verde; 544,081; July 1, 2018; 0.0071%;Official annual projection
+167; Malta; 475,701; December 31, 2017; 0.0062%;Official estimate
+–; Transnistria[Note 19]; 470,600; July 1, 2016; 0.0062%;Official estimate
+168; Brunei; 422,678; July 1, 2016; 0.0055%;Official estimate
+169; Belize; 395,882; April 1, 2018; 0.0052%;Official estimate
+170; Bahamas; 381,320; July 1, 2018; 0.005%;Official annual projection
+171; Maldives; 378,114; December 31, 2017; 0.0049%;Official annual estimate
+172; Iceland; 353,070; June 30, 2018; 0.0046%;Official quarterly estimate
+–; Northern Cyprus[Note 20]; 335,455; July 1, 2016; 0.0044%;Official annual estimate
+173; Vanuatu; 289,700; July 1, 2016; 0.0038%;Annual official estimate
+174; Barbados; 286,388; July 1, 2018; 0.0037%;UN projection
+–; New Caledonia (France); 278,500; January 1, 2017; 0.0036%;Annual official estimate
+–; French Polynesia (France); 275,918; August 17, 2017; 0.0036%;2017 census results
+–; Abkhazia[Note 21]; 240,705; February 28, 2011; 0.0032%;2011 census result
+175; Samoa; 197,448; July 1, 2017; 0.0026%;Official projection
+176; São Tomé and Príncipe; 187,356; May 13, 2012; 0.0025%;2012 census result
+–; Guam (U.S.); 184,200; July 1, 2015; 0.0024%;Annual official estimate
+177; Saint Lucia; 178,844; July 1, 2017; 0.0023%;UN projection
+–; Curaçao (Netherlands); 160,337; January 1, 2017; 0.0021%;Annual official estimate
+–; Artsakh[Note 22]; 150,932; December 1, 2015; 0.002%;Preliminary 2015 census result
+178; Kiribati; 115,300; July 1, 2016; 0.0015%;Annual official estimate
+–; Aruba (Netherlands); 110,882; June 30, 2017; 0.0015%;Official quarterly estimate
+179; Saint Vincent and the Grenadines; 109,557; July 1, 2015; 0.0014%;Official estimate
+–; United States Virgin Islands (U.S.); 104,901; July 1, 2017; 0.0014%;UN projection
+180; Federated States of Micronesia; 104,600; July 1, 2016; 0.0014%;Annual official estimate
+–; Jersey (UK); 104,200; December 31, 2016; 0.0014%;Annual official estimate
+181; Grenada; 103,328; May 12, 2011; 0.0014%;2011 census result
+182; Tonga; 103,252; January 1, 2013; 0.0014%;2011 census result
+183; Seychelles; 94,205; December 31, 2016; 0.0012%;Official estimate
+184; Antigua and Barbuda; 86,295; May 27, 2011; 0.0011%;Preliminary 2011 census result
+–; Isle of Man (UK); 83,314; April 24, 2016; 0.0011%;2016 census result
+185; Andorra; 78,264; December 31, 2016; 0.001%;Annual official estimate
+186; Dominica; 71,293; May 14, 2011; 0.00093%;Preliminary 2011 census result
+–; Bermuda (UK); 63,779; May 21, 2016; 0.00083%;2016 Census Preliminary Report
+–; Guernsey (UK); 62,723; March 31, 2016; 0.00082%;Official estimate
+–; Cayman Islands (UK); 60,413; December 31, 2015; 0.00079%;Official estimate
+–; American Samoa (U.S.); 56,400; July 1, 2016; 0.00074%;Annual official estimate
+–; Greenland (Denmark); 55,877; January 1, 2018; 0.00073%;Official estimate
+–; Northern Mariana Islands (U.S.); 55,700; July 1, 2016; 0.00073%;Annual official estimate
+187; Marshall Islands; 55,000; July 1, 2016; 0.00072%;Annual official estimate
+–; South Ossetia[Note 23]; 53,532; October 15, 2015; 0.0007%;Preliminary 2015 census result
+–; Faroe Islands (Denmark); 50,927; June 1, 2018; 0.00067%;Monthly official estimate
+188; Saint Kitts and Nevis; 46,204; May 15, 2011; 0.0006%;2011 census result
+–; Sint Maarten (Netherlands); 39,410; January 1, 2016; 0.00052%;Official estimate
+189; Monaco; 38,300; December 31, 2017; 0.0005%;Annual official estimate
+190; Liechtenstein; 38,111; December 31, 2017; 0.0005%;Semi annual official estimate
+–; Turks and Caicos Islands (UK); 37,910; July 1, 2016; 0.0005%;Official estimate
+–; Saint-Martin (France); 36,457; January 1, 2015; 0.00048%;Annual official estimate
+–; Gibraltar (UK); 33,573; December 31, 2015; 0.00044%;Annual official estimate
+191; San Marino; 33,344; May 31, 2018; 0.00044%;Monthly official estimate
+–; British Virgin Islands (UK); 28,514; July 1, 2013; 0.00037%;Official estimate
+–; Cook Islands (NZ); 18,100; March 1, 2016; 0.00024%;Official quarterly estimate
+192; Palau; 17,800; July 1, 2016; 0.00023%;Annual official estimate
+–; Anguilla (UK); 13,452; May 11, 2011; 0.00018%;Preliminary 2011 census result
+–; Wallis and Futuna (France); 11,800; July 1, 2016; 0.00015%;Annual official estimate
+193; Tuvalu; 10,782; November 4, 2012; 0.00014%;2012 census result
+194; Nauru; 10,084; October 30, 2011; 0.00013%;2011 census result
+–; Saint Barthélemy (France); 9,417; January 1, 2015; 0.00012%;Annual official estimate
+–; Saint Pierre and Miquelon (France); 6,286; January 1, 2015; 0.000082%;Annual official estimate
+–; Saint Helena, Ascensionand Tristan da Cunha (UK); 5,633; February 7, 2016; 0.000074%;2016 census result
+–; Montserrat (UK); 4,922; May 12, 2011; 0.000064%;2011 census result
+–; Falkland Islands (UK); 2,563; April 15, 2012; 0.000034%;2012 census result
+–; Christmas Island (Australia); 1,843; August 9, 2016; 0.000024%;2016 census result
+–; Norfolk Island (Australia); 1,748; August 9, 2016; 0.000023%;2016 census result
+–; Niue (NZ); 1,611; July 1, 2011; 0.000021%;2011 census result
+–; Tokelau (NZ); 1,499; February 2, 2017; 0.000020%;2016 census result
+195; Vatican City; 800; January 1, 2014; 0.000010%;Official estimate
+–; Cocos (Keeling) Islands (Australia); 544; August 9, 2016; 0.0000071%;2016 census result
+–; Pitcairn Islands (UK); 50; January 1, 2018; 0.00000065%;Official estimate
+Rank;Country;Population;Date;% of world;Source
+1; China[Note 2]; 1,393,290,000; August 3, 2018; 18.2%;Official population clock
+2; India[Note 3]; 1,335,160,000; August 3, 2018; 17.5%;Official population clock
+3; United States[Note 4]; 327,590,000; August 3, 2018; 4.29%;Official population clock
+4; Indonesia; 265,015,300; July 1, 2018; 3.47%;Official annual projection
+5; Pakistan; 212,456,000; August 3, 2018; 2.78%;Official population clock
+6; Brazil; 209,398,000; August 3, 2018; 2.74%;Official population clock
+7; Nigeria; 193,392,517; July 1, 2016; 2.53%;Annual official estimate
+8; Bangladesh; 164,951,000; August 3, 2018; 2.16%;Official population clock
+9; Russia[Note 5]; 146,877,088; January 1, 2018; 1.92%;Official estimate
+10; Japan; 126,490,000; May 1, 2018; 1.66%;Monthly provisional estimate
+11; Mexico; 124,737,789; July 1, 2018; 1.63%;Official annual projection
+12; Ethiopia; 107,534,882; July 1, 2018; 1.41%;UN Projection
+13; Philippines; 106,259,000; August 3, 2018; 1.39%;Official population clock
+14; Egypt; 97,324,100; August 3, 2018; 1.27%;Official population clock
+15; Vietnam; 94,660,000; July 1, 2018; 1.24%;Official annual estimate
+16; DR Congo; 84,004,989; July 1, 2018; 1.1%;UN Projection
+17; Germany; 82,740,900; September 30, 2017; 1.08%;Official annual data
+18; Iran; 81,672,300; August 3, 2018; 1.07%;Official population clock
+19; Turkey; 80,810,525; December 31, 2017; 1.06%;Official annual estimate
+20; Thailand; 69,183,173; July 1, 2018; 0.91%;UN estimate
+21; France[Note 6]; 67,272,000; July 1, 2018; 0.88%;Monthly official estimate
+22; United Kingdom[Note 7]; 66,040,229; June 30, 2017; 0.86%;Official annual estimate
+23; Italy; 60,436,469; March 31, 2018; 0.79%;Monthly official estimate
+24; South Africa; 57,725,600; July 1, 2018; 0.76%;Annual official estimate
+25; Tanzania[Note 8]; 54,199,163; July 1, 2018; 0.71%;Official annual projection
+26; Myanmar; 53,862,731; July 1, 2018; 0.7%;Official annual projection
+27; South Korea; 51,635,256; July 1, 2018; 0.68%;Annual official estimate
+28; Kenya; 50,950,879; July 1, 2018; 0.67%;UN projection
+29; Colombia; 49,882,900; August 3, 2018; 0.653%;Official population clock
+30; Spain; 46,659,302; January 1, 2018; 0.61%;Official estimate
+31; Argentina; 44,494,502; July 1, 2018; 0.58%;Official annual projection
+32; Algeria; 42,545,964; July 1, 2018; 0.56%;Official annual projection
+33; Ukraine[Note 9]; 42,279,611; June 1, 2018; 0.55%;Monthly official estimate
+34; Sudan; 41,984,512; July 1, 2018; 0.55%;Official annual projection
+35; Iraq; 39,339,753; July 1, 2018; 0.51%;UN projection
+36; Uganda; 38,823,100; July 1, 2018; 0.49%;Official annual projection
+37; Poland; 38,422,346; June 30, 2017; 0.5%;Official estimate
+38; Canada; 37,183,300; August 3, 2018; 0.487%;Official estimate
+39; Morocco[Note 10]; 34,744,700; August 3, 2018; 0.455%;Official annual projection
+40; Saudi Arabia; 33,413,660; January 1, 2018; 0.44%;Official estimate
+41; Uzbekistan; 32,653,900; January 1, 2018; 0.43%;Annual official estimate
+42; Malaysia; 32,617,000; August 3, 2018; 0.427%;Official population clock
+43; Venezuela; 31,828,110; July 1, 2018; 0.42%;Official annual projection
+44; Afghanistan; 31,575,018; July 1, 2018; 0.41%;Annual official estimate
+45; Peru; 31,237,385; October 22, 2017; 0.41%;Official census result
+46; Ghana; 29,614,337; January 1, 2018; 0.39%;Official projection
+47; Angola; 29,250,009; January 1, 2018; 0.38%;Official projection
+48; Nepal; 29,218,867; July 1, 2018; 0.38%;Official annual projection
+49; Yemen; 28,915,284; July 1, 2018; 0.38%;UN projection
+50; Mozambique; 28,861,863; August 1, 2017; 0.38%;Official census result
+51; Madagascar; 26,262,810; July 1, 2018; 0.34%;UN projection
+52; North Korea; 25,610,672; July 1, 2018; 0.34%;UN projection
+53; Australia; 25,017,500; August 3, 2018; 0.327%;Official population clock
+54; Ivory Coast; 24,571,044; July 1, 2017; 0.32%;Official estimate
+55; Cameroon; 23,794,164; January 1, 2018; 0.31%;Annual official projection
+–; Taiwan[Note 11]; 23,574,274; June 1, 2018; 0.31%;Monthly official estimate
+56; Niger; 21,466,863; July 1, 2018; 0.28%;Annual official projection
+57; Sri Lanka; 21,444,000; July 1, 2017; 0.28%;Official estimate
+58; Burkina Faso; 20,244,080; July 1, 2018; 0.26%;Annual official projection
+59; Romania; 19,638,000; January 1, 2017; 0.26%;Annual official estimate
+60; Mali; 19,107,706; July 1, 2018; 0.25%;UN projection
+61; Syria; 18,284,407; July 1, 2018; 0.24%;UN projection
+62; Kazakhstan; 18,253,300; June 1, 2018; 0.24%;Official estimate
+63; Malawi; 17,931,637; July 1, 2018; 0.23%;Annual official projection
+64; Chile; 17,574,003; April 19, 2017; 0.23%;Final or definitive 2017 census result
+65; Guatemala; 17,302,084; July 1, 2018; 0.23%;Annual official projection
+66; Netherlands; 17,242,900; August 3, 2018; 0.226%;Official population clock
+67; Ecuador; 17,045,700; August 3, 2018; 0.223%;Official population clock
+68; Zambia; 16,887,720; July 1, 2018; 0.22%;Official annual projection
+69; Cambodia; 16,069,921; July 1, 2018; 0.21%;Official annual projection
+70; Senegal; 15,726,037; July 1, 2018; 0.21%;Official annual projection
+71; Chad; 15,353,184; July 1, 2018; 0.2%;UN projection
+72; Somalia[Note 12]; 15,181,925; July 1, 2018; 0.2%;UN projection
+73; Zimbabwe; 14,848,905; July 1, 2018; 0.19%;Official annual projection
+74; South Sudan; 12,323,419; July 1, 2018; 0.16%;Official annual projection
+75; Rwanda; 12,001,136; July 1, 2018; 0.16%;Official projection annual
+76; Guinea; 11,883,516; July 1, 2018; 0.16%;Official projection
+77; Tunisia; 11,446,300; July 1, 2017; 0.15%;Official estimate
+78; Belgium; 11,414,214; June 1, 2018; 0.15%;Monthly official estimate
+79; Benin; 11,362,269; July 1, 2018; 0.15%;Official projection
+80; Bolivia; 11,307,314; July 1, 2018; 0.15%;Official projection annual
+81; Cuba; 11,221,060; December 31, 2017; 0.15%;Annual official estimate
+82; Haiti; 11,112,945; July 1, 2018; 0.15%;UN projection
+83; Greece; 10,768,193; January 1, 2017; 0.14%;Official estimate
+84; Burundi; 10,681,186; July 1, 2018; 0.14%;Official annual projection
+85; Czech Republic; 10,613,350; March 31, 2018; 0.14%;Official quarterly estimate
+86; Portugal; 10,291,027; December 31, 2017; 0.13%;Annual official estimate
+87; Dominican Republic; 10,266,149; July 1, 2018; 0.13%;Official projection
+88; Jordan; 10,208,900; August 3, 2018; 0.134%;Official population clock
+89; Sweden; 10,161,797; May 31, 2018; 0.13%;Official monthly estimate
+90; Azerbaijan; 9,898,085; January 1, 2018; 0.13%;Official estimate
+91; Hungary; 9,771,000; January 1, 2018; 0.13%;Annual official estimate
+92; United Arab Emirates; 9,541,615; July 1, 2018; 0.12%;UN projection
+93; Belarus; 9,478,200; July 1, 2018; 0.12%;Official quarterly estimate/
+94; Honduras; 9,012,229; July 1, 2018; 0.12%;Official annual projection
+95; Tajikistan; 8,931,000; January 1, 2018; 0.12%;Official estimate
+96; Israel; 8,893,350; August 3, 2018; 0.116%;Official population clock
+97; Austria; 8,830,487; April 1, 2018; 0.12%;Quarterly provisional figure
+98; Papua New Guinea; 8,558,800; July 1, 2018; 0.11%;Annual official estimate
+99; Switzerland; 8,492,956; March 31, 2018; 0.11%;Official provisional figure
+100; Sierra Leone; 7,719,729; July 1, 2018; 0.101%;UN projection
+–; Hong Kong (China); 7,409,800; January 1, 2018; 0.097%;Official estimate
+101; Togo; 7,352,000; July 1, 2018; 0.096%;Official annual projection
+102; Paraguay; 7,052,983; January 1, 2018; 0.092%;Official estimate
+103; Bulgaria; 7,050,034; December 31, 2017; 0.092%;Official estimate
+104; Serbia[Note 13]; 7,001,444; January 1, 2018; 0.092%;Annual official estimate
+105; Laos; 6,961,210; July 1, 2018; 0.091%;UN projection
+106; El Salvador; 6,643,359; July 1, 2018; 0.087%;Official annual projection
+107; Libya; 6,470,956; July 1, 2018; 0.083%;UN projection
+108; Nicaragua; 6,305,956; July 1, 2017; 0.083%;Official estimate
+109; Kyrgyzstan; 6,256,700; January 1, 2018; 0.082%;Official annual estimate
+110; Lebanon; 6,093,509; July 1, 2018; 0.08%;UN projection
+111; Turkmenistan; 5,851,466; July 1, 2018; 0.077%;UN projection
+112; Denmark; 5,785,864; April 1, 2018; 0.076%;Official quarterly estimate
+113; Singapore; 5,612,253; June 30, 2017; 0.073%;Official annual estimate
+114; Finland; 5,516,343; June 30, 2018; 0.072%;Official monthly estimate
+115; Slovakia; 5,443,120; January 1, 2018; 0.071%;Official estimate
+116; Republic of the Congo; 5,399,895; July 1, 2018; 0.071%;UN projection
+117; Norway; 5,302,778; April 1, 2018; 0.069%;Official quarterly estimate
+118; Eritrea; 5,187,948; July 1, 2018; 0.068%;UN projection
+119; Costa Rica; 5,003,393; June 30, 2018; 0.065%;Official annual projection
+120; New Zealand; 4,893,480; August 3, 2018; 0.064%;Official population clock
+121; Ireland; 4,792,500; April 1, 2017; 0.063%;Official estimate 2017 census result
+122; Palestine; 4,780,978; December 1, 2017; 0.063%;Official census result
+123; Central African Republic; 4,737,423; July 1, 2018; 0.062%;UN projection
+124; Oman; 4,590,404; July 1, 2018; 0.06%;Annual official projection
+125; Liberia; 4,382,387; July 1, 2018; 0.057%;Official projection[Note 14]
+126; Kuwait; 4,226,920; January 1, 2018; 0.055%;Official annual estimate
+127; Panama; 4,158,783; July 1, 2018; 0.054%;Annual official projection
+128; Croatia; 4,105,493; December 31, 2017; 0.054%;Official annual estimate
+129; Mauritania; 3,895,747; July 1, 2018; 0.051%;Annual official projection
+130; Georgia[Note 15]; 3,729,600; January 1, 2018; 0.049%;Annual official estimate
+131; Moldova[Note 16]; 3,550,900; January 1, 2017; 0.046%;Official estimate
+132; Bosnia and Herzegovina; 3,511,372; July 1, 2016; 0.046%;Official estimate
+133; Uruguay; 3,505,985; June 30, 2018; 0.046%;Official annual projection
+–; Puerto Rico (U.S.); 3,337,177; July 1, 2017; 0.044%;Official estimate
+134; Mongolia; 3,225,225; August 3, 2018; 0.042%;Official population clock
+135; Armenia; 2,972,900; December 31, 2017; 0.039%;Official quarterly estimate
+136; Albania; 2,870,324; January 1, 2018; 0.038%;Annual official estimate
+137; Lithuania; 2,800,738; July 1, 2018; 0.037%;Monthly official estimate
+138; Jamaica; 2,728,864; December 31, 2017; 0.036%;Official estimate
+139; Qatar; 2,685,053; March 1, 2018; 0.035%;Monthly official estimate
+140; Namibia; 2,413,643; July 1, 2018; 0.032%;Official projection
+141; Botswana; 2,304,238; July 1, 2018; 0.03%;Official annual projection
+142; Lesotho; 2,263,010; July 1, 2018; 0.03%;UN projection
+143; The Gambia; 2,163,765; July 1, 2018; 0.028%;UN projection
+144; Macedonia; 2,075,301; December 31, 2017; 0.027%;Official estimate
+145; Gabon; 2,067,561; July 1, 2018; 0.027%;UN projection
+146; Slovenia; 2,066,880; January 1, 2018; 0.027%;Official estimate
+147; Latvia; 1,925,700; July 1, 2018; 0.025%;Monthly official estimate
+–; Kosovo[Note 17]; 1,798,506; December 31, 2017; 0.024%;Official annual estimate
+148; Guinea-Bissau; 1,584,763; July 1, 2018; 0.021%;Official annual projection
+149; Bahrain; 1,451,200; July 1, 2017; 0.019%;Official annual projection
+150; Trinidad and Tobago; 1,356,633; July 1, 2017; 0.018%;Official estimate
+151; Estonia; 1,319,133; January 1, 2018; 0.017%;Official estimate
+152; Mauritius; 1,264,887; July 1, 2017; 0.017%;Official estimate
+153; Equatorial Guinea; 1,222,442; July 4, 2015; 0.016%;Preliminary 2015 census result
+154; East Timor; 1,167,242; July 11, 2015; 0.015%;Preliminary 2015 census result
+155; Swaziland; 1,159,250; July 1, 2018; 0.015%;Official projection
+156; Djibouti; 1,049,001; July 1, 2018; 0.014%;Official annual projection
+157; Fiji; 884,887; September 17, 2017; 0.012%;Official census result
+158; Cyprus; 854,800; December 31, 2016; 0.011%;Official estimate
+159; Comoros; 806,153; July 1, 2016; 0.011%;Official estimate
+160; Guyana; 782,225; July 1, 2018; 0.0102%;UN projection
+161; Bhutan; 727,145; 30 May, 2017; 0.01%;Official census result
+162; Solomon Islands; 667,044; July 1, 2018; 0.0087%;Official annual projection
+–; Macau (China); 656,700; March 31, 2018; 0.0086%;Official quarterly estimate
+163; Montenegro; 622,359; January 1, 2018; 0.0081%;Official estimate
+164; Luxembourg; 602,005; January 1, 2018; 0.0079%;Official estimate
+165; Suriname; 568,301; July 1, 2018; 0.0074%;UN projection
+–; Western Sahara[Note 18]; 567,421; July 1, 2018; 0.0074%;UN projection
+166; Cape Verde; 544,081; July 1, 2018; 0.0071%;Official annual projection
+167; Malta; 475,701; December 31, 2017; 0.0062%;Official estimate
+–; Transnistria[Note 19]; 470,600; July 1, 2016; 0.0062%;Official estimate
+168; Brunei; 422,678; July 1, 2016; 0.0055%;Official estimate
+169; Belize; 395,882; April 1, 2018; 0.0052%;Official estimate
+170; Bahamas; 381,320; July 1, 2018; 0.005%;Official annual projection
+171; Maldives; 378,114; December 31, 2017; 0.0049%;Official annual estimate
+172; Iceland; 353,070; June 30, 2018; 0.0046%;Official quarterly estimate
+–; Northern Cyprus[Note 20]; 335,455; July 1, 2016; 0.0044%;Official annual estimate
+173; Vanuatu; 289,700; July 1, 2016; 0.0038%;Annual official estimate
+174; Barbados; 286,388; July 1, 2018; 0.0037%;UN projection
+–; New Caledonia (France); 278,500; January 1, 2017; 0.0036%;Annual official estimate
+–; French Polynesia (France); 275,918; August 17, 2017; 0.0036%;2017 census results
+–; Abkhazia[Note 21]; 240,705; February 28, 2011; 0.0032%;2011 census result
+175; Samoa; 197,448; July 1, 2017; 0.0026%;Official projection
+176; São Tomé and Príncipe; 187,356; May 13, 2012; 0.0025%;2012 census result
+–; Guam (U.S.); 184,200; July 1, 2015; 0.0024%;Annual official estimate
+177; Saint Lucia; 178,844; July 1, 2017; 0.0023%;UN projection
+–; Curaçao (Netherlands); 160,337; January 1, 2017; 0.0021%;Annual official estimate
+–; Artsakh[Note 22]; 150,932; December 1, 2015; 0.002%;Preliminary 2015 census result
+178; Kiribati; 115,300; July 1, 2016; 0.0015%;Annual official estimate
+–; Aruba (Netherlands); 110,882; June 30, 2017; 0.0015%;Official quarterly estimate
+179; Saint Vincent and the Grenadines; 109,557; July 1, 2015; 0.0014%;Official estimate
+–; United States Virgin Islands (U.S.); 104,901; July 1, 2017; 0.0014%;UN projection
+180; Federated States of Micronesia; 104,600; July 1, 2016; 0.0014%;Annual official estimate
+–; Jersey (UK); 104,200; December 31, 2016; 0.0014%;Annual official estimate
+181; Grenada; 103,328; May 12, 2011; 0.0014%;2011 census result
+182; Tonga; 103,252; January 1, 2013; 0.0014%;2011 census result
+183; Seychelles; 94,205; December 31, 2016; 0.0012%;Official estimate
+184; Antigua and Barbuda; 86,295; May 27, 2011; 0.0011%;Preliminary 2011 census result
+–; Isle of Man (UK); 83,314; April 24, 2016; 0.0011%;2016 census result
+185; Andorra; 78,264; December 31, 2016; 0.001%;Annual official estimate
+186; Dominica; 71,293; May 14, 2011; 0.00093%;Preliminary 2011 census result
+–; Bermuda (UK); 63,779; May 21, 2016; 0.00083%;2016 Census Preliminary Report
+–; Guernsey (UK); 62,723; March 31, 2016; 0.00082%;Official estimate
+–; Cayman Islands (UK); 60,413; December 31, 2015; 0.00079%;Official estimate
+–; American Samoa (U.S.); 56,400; July 1, 2016; 0.00074%;Annual official estimate
+–; Greenland (Denmark); 55,877; January 1, 2018; 0.00073%;Official estimate
+–; Northern Mariana Islands (U.S.); 55,700; July 1, 2016; 0.00073%;Annual official estimate
+187; Marshall Islands; 55,000; July 1, 2016; 0.00072%;Annual official estimate
+–; South Ossetia[Note 23]; 53,532; October 15, 2015; 0.0007%;Preliminary 2015 census result
+–; Faroe Islands (Denmark); 50,927; June 1, 2018; 0.00067%;Monthly official estimate
+188; Saint Kitts and Nevis; 46,204; May 15, 2011; 0.0006%;2011 census result
+–; Sint Maarten (Netherlands); 39,410; January 1, 2016; 0.00052%;Official estimate
+189; Monaco; 38,300; December 31, 2017; 0.0005%;Annual official estimate
+190; Liechtenstein; 38,111; December 31, 2017; 0.0005%;Semi annual official estimate
+–; Turks and Caicos Islands (UK); 37,910; July 1, 2016; 0.0005%;Official estimate
+–; Saint-Martin (France); 36,457; January 1, 2015; 0.00048%;Annual official estimate
+–; Gibraltar (UK); 33,573; December 31, 2015; 0.00044%;Annual official estimate
+191; San Marino; 33,344; May 31, 2018; 0.00044%;Monthly official estimate
+–; British Virgin Islands (UK); 28,514; July 1, 2013; 0.00037%;Official estimate
+–; Cook Islands (NZ); 18,100; March 1, 2016; 0.00024%;Official quarterly estimate
+192; Palau; 17,800; July 1, 2016; 0.00023%;Annual official estimate
+–; Anguilla (UK); 13,452; May 11, 2011; 0.00018%;Preliminary 2011 census result
+–; Wallis and Futuna (France); 11,800; July 1, 2016; 0.00015%;Annual official estimate
+193; Tuvalu; 10,782; November 4, 2012; 0.00014%;2012 census result
+194; Nauru; 10,084; October 30, 2011; 0.00013%;2011 census result
+–; Saint Barthélemy (France); 9,417; January 1, 2015; 0.00012%;Annual official estimate
+–; Saint Pierre and Miquelon (France); 6,286; January 1, 2015; 0.000082%;Annual official estimate
+–; Saint Helena, Ascensionand Tristan da Cunha (UK); 5,633; February 7, 2016; 0.000074%;2016 census result
+–; Montserrat (UK); 4,922; May 12, 2011; 0.000064%;2011 census result
+–; Falkland Islands (UK); 2,563; April 15, 2012; 0.000034%;2012 census result
+–; Christmas Island (Australia); 1,843; August 9, 2016; 0.000024%;2016 census result
+–; Norfolk Island (Australia); 1,748; August 9, 2016; 0.000023%;2016 census result
+–; Niue (NZ); 1,611; July 1, 2011; 0.000021%;2011 census result
+–; Tokelau (NZ); 1,499; February 2, 2017; 0.000020%;2016 census result
+195; Vatican City; 800; January 1, 2014; 0.000010%;Official estimate
+–; Cocos (Keeling) Islands (Australia); 544; August 9, 2016; 0.0000071%;2016 census result
+–; Pitcairn Islands (UK); 50; January 1, 2018; 0.00000065%;Official estimate

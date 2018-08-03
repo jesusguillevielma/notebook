@@ -1,0 +1,562 @@
+#; Country; Amount; Date;Graph; History
+1; China; 389 million; 2009; ;
+2; United States; 245 million; 2009; ;
+3; Japan; 99.18 million; 2009; ;
+; Group of 7 countries (G7) average
+(profile); 80.32 million; 2009; ;
+4; Brazil; 75.98 million; 2009; ;
+5; Germany; 65.12 million; 2010; ;
+6; India; 61.34 million; 2009; ;
+7; Russia; 59.7 million; 2010; ;
+; Non-religious countries average
+(profile); 51.56 million; 2009; ;
+8; United Kingdom; 51.44 million; 2009; ;
+9; France; 44.63 million; 2010; ;
+10; Nigeria; 43.99 million; 2009; ;
+11; South Korea; 39.4 million; 2009; ;
+12; Turkey; 35 million; 2010; ;
+; Emerging markets average
+(profile); 32.99 million; 2009; ;
+13; Mexico; 31.02 million; 2009; ;
+14; Italy; 30.03 million; 2010; ;
+15; Spain; 29.09 million; 2010; ;
+16; Canada; 26.96 million; 2009; ;
+; East Asia and Pacific average
+(profile); 25.43 million; 2009; ;
+; High income OECD countries average
+(profile); 24.75 million; 2009; ;
+; Cold countries average
+(profile); 23.69 million; 2009; ;
+17; Vietnam; 23.38 million; 2009; ;
+18; Colombia; 22.54 million; 2009; ;
+19; Poland; 22.45 million; 2010; ;
+20; Pakistan; 20.43 million; 2009; ;
+21; Egypt; 20.14 million; 2009; ;
+22; Indonesia; 20 million; 2009; ;
+; Heavily indebted countries average
+(profile); 17.81 million; 2009; ;
+23; Thailand; 17.48 million; 2009; ;
+; South Asia average
+(profile); 16.69 million; 2009; ;
+24; Taiwan; 16.15 million; 2009; ;
+25; Australia; 15.81 million; 2009; ;
+26; Malaysia; 15.36 million; 2009; ;
+27; Ukraine; 15.3 million; 2010; ;
+28; Netherlands; 14.87 million; 2010; ;
+29; Argentina; 13.69 million; 2009; ;
+; Religious countries average
+(profile); 13.59 million; 2009; ;
+30; Morocco; 13.21 million; 2009; ;
+; Eurozone average
+(profile); 12.48 million; 2010; ;
+; NATO countries average
+(profile); 12.27 million; 2010; ;
+; European Union average
+(profile); 10.69 million; 2010; ;
+; Former British colonies average
+(profile); 10.17 million; 2009; ;
+31; Saudi Arabia; 9.77 million; 2009; ;
+; Europe average
+(profile); 9.61 million; 2010; ;
+; Catholic countries average
+(profile); 9.37 million; 2009; ;
+32; Peru; 9.16 million; 2009; ;
+33; Venezuela; 8.92 million; 2009; ;
+; Eastern Europe average
+(profile); 8.4 million; 2010; ;
+34; Sweden; 8.4 million; 2010; ;
+35; Philippines; 8.28 million; 2009; ;
+; Christian countries average
+(profile); 8.26 million; 2009; ;
+36; Iran; 8.21 million; 2009; ;
+37; Belgium; 8.11 million; 2010; ;
+38; Romania; 7.79 million; 2010; ;
+; South and Central Asia average
+(profile); 7.6 million; 2009; ;
+; OPEC countries average
+(profile); 7.45 million; 2009; ;
+39; Chile; 7.01 million; 2009; ;
+40; Czech Republic; 6.68 million; 2010; ;
+41; Hungary; 6.18 million; 2010; ;
+42; Austria; 6.14 million; 2010; ;
+; Former Spanish colonies average
+(profile); 6.14 million; 2009; ;
+43; Switzerland; 5.74 million; 2010; ;
+; Latin America and Caribbean average
+(profile); 5.71 million; 2009; ;
+; failed states average
+(profile); 5.53 million; 2009; ;
+44; Kazakhstan; 5.3 million; 2010; ;
+45; Portugal; 5.17 million; 2010; ;
+; Potential Future EU Members average
+(profile); 5.1 million; 2009; ;
+; Muslim countries average
+(profile); 5.01 million; 2009; ;
+46; Greece; 4.97 million; 2010; ;
+; Former Soviet republics average
+(profile); 4.93 million; 2009; ;
+47; Hong Kong; 4.87 million; 2009; ;
+48; Denmark; 4.75 million; 2010; ;
+49; Algeria; 4.7 million; 2009; ;
+50; Uzbekistan; 4.69 million; 2009; ;
+; Hot countries average
+(profile); 4.66 million; 2009; ;
+51; Israel; 4.53 million; 2009; ;
+; Middle Eastern and North Africa average
+(profile); 4.51 million; 2009; ;
+52; Finland; 4.48 million; 2010; ;
+53; Syria; 4.47 million; 2009; ;
+54; Belarus; 4.44 million; 2010; ;
+55; Norway; 4.43 million; 2010; ;
+56; South Africa; 4.42 million; 2009; ;
+57; Sudan; 4.2 million; 2008; ;
+58; Serbia; 4.11 million; 2009; ;
+59; Slovakia; 4.06 million; 2010; ;
+60; Kenya; 4 million; 2009; ;
+61; Azerbaijan; 3.69 million; 2010; ;
+62; Tunisia; 3.5 million; 2009; ;
+63; United Arab Emirates; 3.45 million; 2009; ;
+; Tourist destinations average
+(profile); 3.42 million; 2009; ;
+64; New Zealand; 3.4 million; 2009; ;
+65; Bulgaria; 3.4 million; 2010; ;
+66; Ecuador; 3.35 million; 2009; ;
+67; Singapore; 3.23 million; 2009; ;
+68; Uganda; 3.2 million; 2009; ;
+69; Ireland; 3.04 million; 2010; ;
+70; Dominican Republic; 2.7 million; 2009; ;
+71; Yemen; 2.35 million; 2009; ;
+; Former French colonies average
+(profile); 2.31 million; 2009; ;
+72; Guatemala; 2.28 million; 2009; ;
+73; Croatia; 2.24 million; 2010; ;
+74; Kyrgyzstan; 2.19 million; 2009; ;
+75; Lithuania; 2.1 million; 2010; ;
+76; Senegal; 1.82 million; 2009; ;
+77; Sri Lanka; 1.78 million; 2009; ;
+; Landlocked countries average
+(profile); 1.64 million; 2009; ;
+78; Jordan; 1.64 million; 2009; ;
+; Sub-Saharan Africa average
+(profile); 1.62 million; 2009; ;
+79; Cuba; 1.61 million; 2013; ;
+80; Jamaica; 1.58 million; 2009; ;
+81; Latvia; 1.5 million; 2010; ;
+82; Costa Rica; 1.49 million; 2009; ;
+83; Oman; 1.47 million; 2009; ;
+84; Bosnia and Herzegovina; 1.44 million; 2010; ;
+85; Zimbabwe; 1.42 million; 2009; ;
+86; Uruguay; 1.41 million; 2009; ;
+=87; Gaza Strip; 1.38 million; 2009; ;
+=87; West Bank; 1.38 million; 2009; ;
+=89; Georgia; 1.3 million; 2010; ;
+=89; Albania; 1.3 million; 2010; ;
+91; Slovenia; 1.3 million; 2010; ;
+92; Ghana; 1.3 million; 2009; ;
+93; Moldova; 1.29 million; 2010; ;
+94; Paraguay; 1.1 million; 2009; ;
+95; Bolivia; 1.1 million; 2009; ;
+96; Kuwait; 1.1 million; 2009; ;
+97; Republic of Macedonia; 1.06 million; 2009; ;
+=98; Afghanistan; 1,000,000; 2009; ;
+=98; Lebanon; 1,000,000; 2009; ;
+=98; Puerto Rico; 1,000,000; 2009; ;
+=98; Haiti; 1,000,000; 2009; ;
+102; Estonia; 969,700; 2010; ;
+103; Cote d'Ivoire; 967,300; 2009; ;
+104; Panama; 959,800; 2009; ;
+105; Zambia; 816,200; 2009; ;
+106; Cameroon; 749,600; 2009; ;
+107; El Salvador; 746,000; 2009; ;
+108; Honduras; 731,700; 2009; ;
+109; Malawi; 716,400; 2009; ;
+110; Tajikistan; 700,000; 2009; ;
+111; Tanzania; 678,000; 2009; ;
+112; Bangladesh; 617,300; 2009; ;
+113; Mozambique; 613,600; 2009; ;
+114; Angola; 606,700; 2009; ;
+115; Trinidad and Tobago; 593,000; 2009; ;
+116; Nepal; 577,800; 2009; ;
+117; Qatar; 563,800; 2009; ;
+118; Rwanda; 450,000; 2009; ;
+119; Ethiopia; 447,300; 2009; ;
+120; Cyprus; 433,800; 2010; ;
+121; Luxembourg; 424,500; 2010; ;
+122; Bahrain; 419,500; 2009; ;
+123; Togo; 356,300; 2009; ;
+124; Libya; 353,900; 2009; ;
+125; Mongolia; 330,000; 2008; ;
+126; Iraq; 325,900; 2009; ;
+127; Madagascar; 319,900; 2009; ;
+128; Brunei; 314,900; 2009; ;
+129; Iceland; 301,600; 2010; ;
+130; Laos; 300,000; 2009; ;
+=131; Mauritius; 290,000; 2009; ;
+=131; Democratic Republic of the Congo; 290,000; 2008; ;
+133; Montenegro; 280,000; 2009; ;
+134; Macau; 270,200; 2009; ;
+135; Mali; 249,800; 2009; ;
+136; Congo, Republic of the; 245,200; 2009; ;
+137; Malta; 240,600; 2010; ;
+138; Armenia; 208,200; 2010; ;
+139; Benin; 200,100; 2009; ;
+140; Eritrea; 200,000; 2008; ;
+141; Nicaragua; 199,800; 2009; ;
+142; Guyana; 189,600; 2009; ;
+143; Barbados; 188,000; 2008; ;
+144; Burkina Faso; 178,100; 2009; ;
+145; Chad; 168,100; 2009; ;
+146; Suriname; 163,000; 2009; ;
+147; Burundi; 157,800; 2009; ;
+148; Cape Verde; 150,000; 2009; ;
+149; Saint Lucia; 142,900; 2009; ;
+150; The Gambia; 130,100; 2009; ;
+151; Namibia; 127,500; 2009; ;
+152; Papua New Guinea; 125,000; 2009; ;
+=153; Botswana; 120,000; 2009; ;
+=153; French Polynesia; 120,000; 2009; ;
+155; Niger; 115,900; 2009; ;
+156; The Bahamas; 115,800; 2009; ;
+157; Fiji; 114,200; 2009; ;
+158; Burma; 110,000; 2009; ;
+159; Somalia; 106,000; 2009; ;
+160; Gabon; 98,800; 2009; ;
+161; Guinea; 95,000; 2009; ;
+162; Swaziland; 90,100; 2009; ;
+163; Guam; 90,000; 2009; ;
+164; Maldives; 86,400; 2009; ;
+165; New Caledonia; 85,000; 2009; ;
+166; Turkmenistan; 80,400; 2009; ;
+167; Cambodia; 78,500; 2009; ;
+168; Lesotho; 76,800; 2009; ;
+169; Saint Vincent and the Grenadines; 76,000; 2009; ;
+170; Mauritania; 75,000; 2009; ;
+171; Andorra; 67,200; 2010; ;
+172; Antigua and Barbuda; 65,000; 2009; ;
+173; Bermuda; 54,000; 2009; ;
+174; Bhutan; 50,000; 2009; ;
+175; Guernsey; 48,300; 2009; ;
+176; Faroe Islands; 37,500; 2009; ;
+177; Guinea-Bissau; 37,100; 2009; ;
+=178; Belize; 36,000; 2009; ;
+=178; Greenland; 36,000; 2009; ;
+180; Seychelles; 32,000; 2008; ;
+181; Virgin Islands; 30,000; 2009; ;
+182; Jersey; 29,500; 2009; ;
+183; Dominica; 28,000; 2009; ;
+184; Sao Tome and Principe; 26,700; 2009; ;
+185; Djibouti; 25,900; 2009; ;
+186; Grenada; 25,000; 2009; ;
+187; Comoros; 24,300; 2009; ;
+188; Aruba; 24,000; 2009; ;
+=189; Monaco; 23,000; 2010; ;
+=189; Liechtenstein; 23,000; 2010; ;
+=189; Cayman Islands; 23,000; 2008; ;
+192; Central African Republic; 22,600; 2009; ;
+193; Gibraltar; 20,200; 2009; ;
+194; Liberia; 20,000; 2009; ;
+=195; Vanuatu; 17,000; 2009; ;
+=195; San Marino; 17,000; 2010; ;
+=195; Federated States of Micronesia; 17,000; 2009; ;
+=195; Saint Kitts and Nevis; 17,000; 2009; ;
+199; Sierra Leone; 14,900; 2009; ;
+200; Equatorial Guinea; 14,400; 2009; ;
+201; Solomon Islands; 10,000; 2009; ;
+202; Samoa; 9,000; 2009; ;
+203; Tonga; 8,400; 2009; ;
+204; Kiribati; 7,800; 2009; ;
+205; Cook Islands; 6,000; 2009; ;
+206; Tuvalu; 4,200; 2008; ;
+207; British Virgin Islands; 4,000; 2002; ;
+208; Anguilla; 3,700; 2009; ;
+209; Falkland Islands (Islas Malvinas); 2,900; 2009; ;
+210; Marshall Islands; 2,200; 2009; ;
+211; East Timor; 2,100; 2009; ;
+212; Wallis and Futuna; 1,300; 2009; ;
+213; Montserrat; 1,200; 2009; ;
+214; Niue; 1,100; 2009; ;
+=215; Saint Helena, Ascension, and Tristan da Cunha; 900; 2009; ;
+=215; Saint Helena; 900; 2009; ;
+217; Tokelau; 800; 2008; ;
+218; Christmas Island; 464; 2001; ;
+#; Country; Amount; Date;Graph; History
+1; China; 389 million; 2009; ;
+2; United States; 245 million; 2009; ;
+3; Japan; 99.18 million; 2009; ;
+; Group of 7 countries (G7) average
+(profile); 80.32 million; 2009; ;
+4; Brazil; 75.98 million; 2009; ;
+5; Germany; 65.12 million; 2010; ;
+6; India; 61.34 million; 2009; ;
+7; Russia; 59.7 million; 2010; ;
+; Non-religious countries average
+(profile); 51.56 million; 2009; ;
+8; United Kingdom; 51.44 million; 2009; ;
+9; France; 44.63 million; 2010; ;
+10; Nigeria; 43.99 million; 2009; ;
+11; South Korea; 39.4 million; 2009; ;
+12; Turkey; 35 million; 2010; ;
+; Emerging markets average
+(profile); 32.99 million; 2009; ;
+13; Mexico; 31.02 million; 2009; ;
+14; Italy; 30.03 million; 2010; ;
+15; Spain; 29.09 million; 2010; ;
+16; Canada; 26.96 million; 2009; ;
+; East Asia and Pacific average
+(profile); 25.43 million; 2009; ;
+; High income OECD countries average
+(profile); 24.75 million; 2009; ;
+; Cold countries average
+(profile); 23.69 million; 2009; ;
+17; Vietnam; 23.38 million; 2009; ;
+18; Colombia; 22.54 million; 2009; ;
+19; Poland; 22.45 million; 2010; ;
+20; Pakistan; 20.43 million; 2009; ;
+21; Egypt; 20.14 million; 2009; ;
+22; Indonesia; 20 million; 2009; ;
+; Heavily indebted countries average
+(profile); 17.81 million; 2009; ;
+23; Thailand; 17.48 million; 2009; ;
+; South Asia average
+(profile); 16.69 million; 2009; ;
+24; Taiwan; 16.15 million; 2009; ;
+25; Australia; 15.81 million; 2009; ;
+26; Malaysia; 15.36 million; 2009; ;
+27; Ukraine; 15.3 million; 2010; ;
+28; Netherlands; 14.87 million; 2010; ;
+29; Argentina; 13.69 million; 2009; ;
+; Religious countries average
+(profile); 13.59 million; 2009; ;
+30; Morocco; 13.21 million; 2009; ;
+; Eurozone average
+(profile); 12.48 million; 2010; ;
+; NATO countries average
+(profile); 12.27 million; 2010; ;
+; European Union average
+(profile); 10.69 million; 2010; ;
+; Former British colonies average
+(profile); 10.17 million; 2009; ;
+31; Saudi Arabia; 9.77 million; 2009; ;
+; Europe average
+(profile); 9.61 million; 2010; ;
+; Catholic countries average
+(profile); 9.37 million; 2009; ;
+32; Peru; 9.16 million; 2009; ;
+33; Venezuela; 8.92 million; 2009; ;
+; Eastern Europe average
+(profile); 8.4 million; 2010; ;
+34; Sweden; 8.4 million; 2010; ;
+35; Philippines; 8.28 million; 2009; ;
+; Christian countries average
+(profile); 8.26 million; 2009; ;
+36; Iran; 8.21 million; 2009; ;
+37; Belgium; 8.11 million; 2010; ;
+38; Romania; 7.79 million; 2010; ;
+; South and Central Asia average
+(profile); 7.6 million; 2009; ;
+; OPEC countries average
+(profile); 7.45 million; 2009; ;
+39; Chile; 7.01 million; 2009; ;
+40; Czech Republic; 6.68 million; 2010; ;
+41; Hungary; 6.18 million; 2010; ;
+42; Austria; 6.14 million; 2010; ;
+; Former Spanish colonies average
+(profile); 6.14 million; 2009; ;
+43; Switzerland; 5.74 million; 2010; ;
+; Latin America and Caribbean average
+(profile); 5.71 million; 2009; ;
+; failed states average
+(profile); 5.53 million; 2009; ;
+44; Kazakhstan; 5.3 million; 2010; ;
+45; Portugal; 5.17 million; 2010; ;
+; Potential Future EU Members average
+(profile); 5.1 million; 2009; ;
+; Muslim countries average
+(profile); 5.01 million; 2009; ;
+46; Greece; 4.97 million; 2010; ;
+; Former Soviet republics average
+(profile); 4.93 million; 2009; ;
+47; Hong Kong; 4.87 million; 2009; ;
+48; Denmark; 4.75 million; 2010; ;
+49; Algeria; 4.7 million; 2009; ;
+50; Uzbekistan; 4.69 million; 2009; ;
+; Hot countries average
+(profile); 4.66 million; 2009; ;
+51; Israel; 4.53 million; 2009; ;
+; Middle Eastern and North Africa average
+(profile); 4.51 million; 2009; ;
+52; Finland; 4.48 million; 2010; ;
+53; Syria; 4.47 million; 2009; ;
+54; Belarus; 4.44 million; 2010; ;
+55; Norway; 4.43 million; 2010; ;
+56; South Africa; 4.42 million; 2009; ;
+57; Sudan; 4.2 million; 2008; ;
+58; Serbia; 4.11 million; 2009; ;
+59; Slovakia; 4.06 million; 2010; ;
+60; Kenya; 4 million; 2009; ;
+61; Azerbaijan; 3.69 million; 2010; ;
+62; Tunisia; 3.5 million; 2009; ;
+63; United Arab Emirates; 3.45 million; 2009; ;
+; Tourist destinations average
+(profile); 3.42 million; 2009; ;
+64; New Zealand; 3.4 million; 2009; ;
+65; Bulgaria; 3.4 million; 2010; ;
+66; Ecuador; 3.35 million; 2009; ;
+67; Singapore; 3.23 million; 2009; ;
+68; Uganda; 3.2 million; 2009; ;
+69; Ireland; 3.04 million; 2010; ;
+70; Dominican Republic; 2.7 million; 2009; ;
+71; Yemen; 2.35 million; 2009; ;
+; Former French colonies average
+(profile); 2.31 million; 2009; ;
+72; Guatemala; 2.28 million; 2009; ;
+73; Croatia; 2.24 million; 2010; ;
+74; Kyrgyzstan; 2.19 million; 2009; ;
+75; Lithuania; 2.1 million; 2010; ;
+76; Senegal; 1.82 million; 2009; ;
+77; Sri Lanka; 1.78 million; 2009; ;
+; Landlocked countries average
+(profile); 1.64 million; 2009; ;
+78; Jordan; 1.64 million; 2009; ;
+; Sub-Saharan Africa average
+(profile); 1.62 million; 2009; ;
+79; Cuba; 1.61 million; 2013; ;
+80; Jamaica; 1.58 million; 2009; ;
+81; Latvia; 1.5 million; 2010; ;
+82; Costa Rica; 1.49 million; 2009; ;
+83; Oman; 1.47 million; 2009; ;
+84; Bosnia and Herzegovina; 1.44 million; 2010; ;
+85; Zimbabwe; 1.42 million; 2009; ;
+86; Uruguay; 1.41 million; 2009; ;
+=87; Gaza Strip; 1.38 million; 2009; ;
+=87; West Bank; 1.38 million; 2009; ;
+=89; Georgia; 1.3 million; 2010; ;
+=89; Albania; 1.3 million; 2010; ;
+91; Slovenia; 1.3 million; 2010; ;
+92; Ghana; 1.3 million; 2009; ;
+93; Moldova; 1.29 million; 2010; ;
+94; Paraguay; 1.1 million; 2009; ;
+95; Bolivia; 1.1 million; 2009; ;
+96; Kuwait; 1.1 million; 2009; ;
+97; Republic of Macedonia; 1.06 million; 2009; ;
+=98; Afghanistan; 1,000,000; 2009; ;
+=98; Lebanon; 1,000,000; 2009; ;
+=98; Puerto Rico; 1,000,000; 2009; ;
+=98; Haiti; 1,000,000; 2009; ;
+102; Estonia; 969,700; 2010; ;
+103; Cote d'Ivoire; 967,300; 2009; ;
+104; Panama; 959,800; 2009; ;
+105; Zambia; 816,200; 2009; ;
+106; Cameroon; 749,600; 2009; ;
+107; El Salvador; 746,000; 2009; ;
+108; Honduras; 731,700; 2009; ;
+109; Malawi; 716,400; 2009; ;
+110; Tajikistan; 700,000; 2009; ;
+111; Tanzania; 678,000; 2009; ;
+112; Bangladesh; 617,300; 2009; ;
+113; Mozambique; 613,600; 2009; ;
+114; Angola; 606,700; 2009; ;
+115; Trinidad and Tobago; 593,000; 2009; ;
+116; Nepal; 577,800; 2009; ;
+117; Qatar; 563,800; 2009; ;
+118; Rwanda; 450,000; 2009; ;
+119; Ethiopia; 447,300; 2009; ;
+120; Cyprus; 433,800; 2010; ;
+121; Luxembourg; 424,500; 2010; ;
+122; Bahrain; 419,500; 2009; ;
+123; Togo; 356,300; 2009; ;
+124; Libya; 353,900; 2009; ;
+125; Mongolia; 330,000; 2008; ;
+126; Iraq; 325,900; 2009; ;
+127; Madagascar; 319,900; 2009; ;
+128; Brunei; 314,900; 2009; ;
+129; Iceland; 301,600; 2010; ;
+130; Laos; 300,000; 2009; ;
+=131; Mauritius; 290,000; 2009; ;
+=131; Democratic Republic of the Congo; 290,000; 2008; ;
+133; Montenegro; 280,000; 2009; ;
+134; Macau; 270,200; 2009; ;
+135; Mali; 249,800; 2009; ;
+136; Congo, Republic of the; 245,200; 2009; ;
+137; Malta; 240,600; 2010; ;
+138; Armenia; 208,200; 2010; ;
+139; Benin; 200,100; 2009; ;
+140; Eritrea; 200,000; 2008; ;
+141; Nicaragua; 199,800; 2009; ;
+142; Guyana; 189,600; 2009; ;
+143; Barbados; 188,000; 2008; ;
+144; Burkina Faso; 178,100; 2009; ;
+145; Chad; 168,100; 2009; ;
+146; Suriname; 163,000; 2009; ;
+147; Burundi; 157,800; 2009; ;
+148; Cape Verde; 150,000; 2009; ;
+149; Saint Lucia; 142,900; 2009; ;
+150; The Gambia; 130,100; 2009; ;
+151; Namibia; 127,500; 2009; ;
+152; Papua New Guinea; 125,000; 2009; ;
+=153; Botswana; 120,000; 2009; ;
+=153; French Polynesia; 120,000; 2009; ;
+155; Niger; 115,900; 2009; ;
+156; The Bahamas; 115,800; 2009; ;
+157; Fiji; 114,200; 2009; ;
+158; Burma; 110,000; 2009; ;
+159; Somalia; 106,000; 2009; ;
+160; Gabon; 98,800; 2009; ;
+161; Guinea; 95,000; 2009; ;
+162; Swaziland; 90,100; 2009; ;
+163; Guam; 90,000; 2009; ;
+164; Maldives; 86,400; 2009; ;
+165; New Caledonia; 85,000; 2009; ;
+166; Turkmenistan; 80,400; 2009; ;
+167; Cambodia; 78,500; 2009; ;
+168; Lesotho; 76,800; 2009; ;
+169; Saint Vincent and the Grenadines; 76,000; 2009; ;
+170; Mauritania; 75,000; 2009; ;
+171; Andorra; 67,200; 2010; ;
+172; Antigua and Barbuda; 65,000; 2009; ;
+173; Bermuda; 54,000; 2009; ;
+174; Bhutan; 50,000; 2009; ;
+175; Guernsey; 48,300; 2009; ;
+176; Faroe Islands; 37,500; 2009; ;
+177; Guinea-Bissau; 37,100; 2009; ;
+=178; Belize; 36,000; 2009; ;
+=178; Greenland; 36,000; 2009; ;
+180; Seychelles; 32,000; 2008; ;
+181; Virgin Islands; 30,000; 2009; ;
+182; Jersey; 29,500; 2009; ;
+183; Dominica; 28,000; 2009; ;
+184; Sao Tome and Principe; 26,700; 2009; ;
+185; Djibouti; 25,900; 2009; ;
+186; Grenada; 25,000; 2009; ;
+187; Comoros; 24,300; 2009; ;
+188; Aruba; 24,000; 2009; ;
+=189; Monaco; 23,000; 2010; ;
+=189; Liechtenstein; 23,000; 2010; ;
+=189; Cayman Islands; 23,000; 2008; ;
+192; Central African Republic; 22,600; 2009; ;
+193; Gibraltar; 20,200; 2009; ;
+194; Liberia; 20,000; 2009; ;
+=195; Vanuatu; 17,000; 2009; ;
+=195; San Marino; 17,000; 2010; ;
+=195; Federated States of Micronesia; 17,000; 2009; ;
+=195; Saint Kitts and Nevis; 17,000; 2009; ;
+199; Sierra Leone; 14,900; 2009; ;
+200; Equatorial Guinea; 14,400; 2009; ;
+201; Solomon Islands; 10,000; 2009; ;
+202; Samoa; 9,000; 2009; ;
+203; Tonga; 8,400; 2009; ;
+204; Kiribati; 7,800; 2009; ;
+205; Cook Islands; 6,000; 2009; ;
+206; Tuvalu; 4,200; 2008; ;
+207; British Virgin Islands; 4,000; 2002; ;
+208; Anguilla; 3,700; 2009; ;
+209; Falkland Islands (Islas Malvinas); 2,900; 2009; ;
+210; Marshall Islands; 2,200; 2009; ;
+211; East Timor; 2,100; 2009; ;
+212; Wallis and Futuna; 1,300; 2009; ;
+213; Montserrat; 1,200; 2009; ;
+214; Niue; 1,100; 2009; ;
+=215; Saint Helena, Ascension, and Tristan da Cunha; 900; 2009; ;
+=215; Saint Helena; 900; 2009; ;
+217; Tokelau; 800; 2008; ;
+218; Christmas Island; 464; 2001; ;
